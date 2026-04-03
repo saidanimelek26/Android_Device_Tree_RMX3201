@@ -19,6 +19,6 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/twrp_RMX3201.mk
 COMMON_LUNCH_CHOICES := \
-    twrp_RMX2185-user \
-    twrp_RMX2185-userdebug \
-    twrp_RMX2185-eng
+    twrp_RMX3201-user \
+    twrp_RMX3201-userdebug \
+    twrp_RMX3201-eng
